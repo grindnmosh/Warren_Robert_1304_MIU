@@ -16,3 +16,4 @@ test devices and software:
 6. Samsung Galaxy s2 (Android 4.04)
 7. ZTE Optik Tablet (Android 3.1 on multiple browsers)
 8. iPad mini (iOS 6.1)
+9. iPad Retina coming soon
