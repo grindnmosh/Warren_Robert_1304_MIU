@@ -56,6 +56,18 @@ li {
   margin: 40px 0px 40px 0px;
   border: 2px solid blue;
 }
+body ul li {
+	list-style: none;
+	text-align: center;
+}
+#searchField {
+	width: 300px;
+	margin: 0px 20px 0px 0px
+}
+#searchButton {
+	width: 100px;
+	
+}
 form fieldset ul li {
 	list-style: none;
 }
@@ -80,8 +92,7 @@ form fieldset ul select {
 #freqs {
 	display: inline;
 } 
-div {
-	list-style: none;
+#bill {
 	border: 1px solid black;	
 	background: white;
 	padding: 10px 10px 10px 10px;
@@ -91,7 +102,7 @@ div {
 	display: none
 }
 p.padding {
-	padding:100px 65px 100px 65px;
+	padding:0px 65px 100px 65px;
 }
 a.likeAButton {
 	padding:3px 3px 3px 3px;
