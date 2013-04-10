@@ -24,7 +24,7 @@ var sampleBills = {
 		"lfee": ["Late Fee?: ", "N/A"],
 		"textArea": ["comments: ", "Pay extra 30 to help with higher summer bills."]
 	},
-	"loan": {
+	"edu": {
 		"btype": ["Bill Type: ", "Education"],
 		"bname": ["Bill Name: ", "Student Loan"],
 		"prio": ["Bill Priority: ", "5"],
