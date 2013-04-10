@@ -117,7 +117,7 @@ h2 {
 	display: inline;
 	background: green;
 }
-div {
+#bill {
 	list-style: none;
 	border: 1px solid black;	
 	background: white;
