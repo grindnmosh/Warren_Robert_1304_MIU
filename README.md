@@ -19,4 +19,20 @@ test devices and software:
 6. Samsung Galaxy s2 (Android 4.04)
 7. ZTE Optik Tablet (Android 3.1 on multiple browsers)
 8. iPad mini (iOS 6.1)
+9. Android Emulators(iOS 4.2.2)
 
+Week 1:
+Video Review
+Video Reflection
+
+Week 2:
+Video Review
+Video Reflection
+
+Week 3:
+Video Review
+Video Reflection
+
+Week 4:
+Video Review
+Video Reflection
