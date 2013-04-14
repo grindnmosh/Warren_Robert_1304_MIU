@@ -5,6 +5,9 @@ I Owe, I Owe * Bill List
 
 Dropbox: https://www.dropbox.com/sh/03yhmwxv5pmms41/4XEl9oEfZ8
 Github: https://github.com/grindnmosh/Warren_Robert_1304_MIU.git
+Master Branch: https://github.com/grindnmosh/Warren_Robert_1304_MIU
+gh-pages branch: https://github.com/grindnmosh/Warren_Robert_1304_MIU/tree/gh-pages
+Working_Branch: https://github.com/grindnmosh/Warren_Robert_1304_MIU/tree/Working-Branch
 URL: http://grind-design.com
 
 test devices and software:
@@ -16,3 +19,4 @@ test devices and software:
 6. Samsung Galaxy s2 (Android 4.04)
 7. ZTE Optik Tablet (Android 3.1 on multiple browsers)
 8. iPad mini (iOS 6.1)
+
